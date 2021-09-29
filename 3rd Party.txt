@@ -1,4 +1,14 @@
 BinaryPatcher by ViRb3 https://github.com/ViRb3/BinaryPatcher
 
 Used DBD_ModInstaller by Cranch-fur https://github.com/Cranch-fur/DBD_ModInstaller as a base.
-Licensed under the Apache License 2.0 (see ApacheLicense2.txt)
+Licensed under the Apache License 2.0 (see 3rdpartylicenses/ApacheLicense2.txt)
+
+Newtonsoft.Json https://github.com/JamesNK/Newtonsoft.Json
+Licensed under the MIT License (see 3rdpartylicenses/MITLicense.txt)
+
+ObjectListView http://objectlistview.sourceforge.net/
+Licensed under the GPLv3 License (see '3rdpartylicenses/GNU GPLv3.txt')
+
+WinFormAnimation https://github.com/falahati/WinFormAnimation
+CircularProgressBar https://github.com/falahati/CircularProgressBar
+Licensed under the MIT License (see 3rdpartylicenses/MITLicense.txt)
